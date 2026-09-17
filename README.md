@@ -1,4 +1,37 @@
-# bender
+# 🤖 Bender
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-success.svg" alt="Status Active">
+  <img src="https://img.shields.io/badge/HTML-20232A?style=flat&logo=html5&logoColor=61DAFB" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+> **Bender** — This is a modern web application (pet project) developed for [briefly describe the app's main purpose or concept, e.g., convenient task management / an interactive interface, etc.].
+
+🔗 **Live Demo:** [https://guijeen.github.io/bender/](https://guijeen.github.io/bender/)
+
+---
+
+## ✨ Project Features
+
+* **Modern Tech Stack:** Built using Vanila JavaScript.
+* **Responsive Design:** Displays correctly across various devices (mobile phones, tablets, desktops).
+* **User-Friendly Interface:** Intuitive UI with a focus on performance and UX.
+* **Clean Code:** Adherence to development standards, strong typing, and modular architecture.тура.
+
+---
+
+## 🛠️ Technologies
+
+The project was implemented using modern web technologies:
+* **Core:** JavaScript (ES6+)
+* **Styling:** CSS Flexbox
+* **Deployment:** GitHub Pages
+
+---
+
+# Bender-history
 
 25-01-26
 v0.06
