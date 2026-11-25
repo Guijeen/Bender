@@ -37,6 +37,11 @@ input[type="number"]::-webkit-outer-spin-button {
   margin: 0;
 }
 
+.header .container {
+  display: flex;
+  justify-content: space-between;
+}
+
 .glow {
   position: fixed;
   top: -10%;
